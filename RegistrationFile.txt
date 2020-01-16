@@ -1,0 +1,7 @@
+Hi  ${contactName},
+
+Greetings for the day..!
+
+Your friend ${Friend_Name} added your ${phoneNo} to his contcat's list.
+
+Thank you.
